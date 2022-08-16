@@ -1,0 +1,43 @@
+_repo: The-house-on-Henry-Street_68546
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Tromka, Abram
+    aliases:
+    - Phillips-Tromka, Abram
+    - Phillips, Abraham
+    - Trompka, Abram
+    birthdate: 1896
+    deathdate: 1954
+    gutenberg_agent_id: '54823'
+    url: http://www.gutenberg.org/2009/agents/54823
+creator:
+  author:
+    agent_name: Wald, Lillian D.
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '54822'
+    url: http://www.gutenberg.org/2009/agents/54822
+    wikipedia: https://en.wikipedia.org/wiki/Lillian_Wald
+description: ''
+gutenberg_issued: '2022-07-17'
+identifiers:
+  gutenberg: '68546'
+language: en
+pgterms:marc904: https://archive.org/details/houseonhenrystre00wald2/page/n7/mode/2up
+pgterms:marc905: 20200320202458wald
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Henry Holt and Company,1915,reprint 1938.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- New York (State) -- New York'
+- !lcc 'HV'
+- !lcsh 'Henry Street Settlement (New York, N.Y.)'
+- GITenberg
+title: The house on Henry Street
+url: http://www.gutenberg.org/ebooks/68546
