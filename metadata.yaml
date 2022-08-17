@@ -11,6 +11,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '54823'
     url: http://www.gutenberg.org/2009/agents/54823
+covers:
+- cover_type: archival
+  image_path: 68546-h/images/cover.jpg
 creator:
   author:
     agent_name: Wald, Lillian D.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54822
     wikipedia: https://en.wikipedia.org/wiki/Lillian_Wald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68546#The-house-on-Henry-Street
 gutenberg_issued: '2022-07-17'
 identifiers:
   gutenberg: '68546'
